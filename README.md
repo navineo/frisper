@@ -1,0 +1,2 @@
+# frisper
+Frisper is our mobile browser. We have put in some advanced UI and yet managed to maintain the data usage at the lowest as compared to any other Indian browser. Frisper is specially designed by keeping the Indian user in mind. Frisper automatically adds the bookmarks of the websites you visit more relevantly on the homepage which enhances your overall browsing experience. We will launch the API version of the app on our website this week.
